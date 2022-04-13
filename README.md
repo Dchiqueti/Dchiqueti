@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dchiqueti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learn coding
+- 🌱 I’m currently learning C# and Unity // Python
+- 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me: Davichiqueti@gmail.com
 
 <!---
